@@ -29,3 +29,7 @@ yarn.lock
 # Logs
 logs/
 *.log
+
+
+# general files
+*.txt
